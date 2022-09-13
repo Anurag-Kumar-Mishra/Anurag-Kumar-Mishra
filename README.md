@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Anurag-Kumar-Mishra
 - 👀 I’m interested in android app development, web development and Football
 - 🌱 I’m currently learning android studio using kotlin
-- 📫 You can contact me through my wordpress website https://www.learningwithanurag.wordpress.com
